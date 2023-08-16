@@ -1,14 +1,14 @@
 Hello Everynyan ![41e56e6c-b8cd-4cec-a287-10f05fc02e1d-1687027894062 (1)](https://github.com/NOOBODY369/symmetrical-bassoon/assets/106931599/5ebe3bd7-51a3-4dd9-a038-44a04fbd637a) how are you?!
 ================================================================================================================================================================================================
 
-My name is Sami! - Am fine thank you!
+My name is Sami! - fine thank you!
 =====================================
 
 I intend to be a Software Engineer 🤩️
 
 
 + 🗺️ Available in morocco (too rich to leave the country)
-+ 📮️ To contact me at: [sami-karem@outlook.fr](mailto:sami-karem@outlook.fr)
++ 📮️ To contact me : [sami-karem@outlook.fr](mailto:sami-karem@outlook.fr)
 + 👨‍💻️ I am available for an internship.
 
 * You can also follow me on :
