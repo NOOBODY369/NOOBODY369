@@ -7,7 +7,7 @@ My name is Sami!
 I intend to be a Software Engineer 🤩️
 
 
-+ 🗺️ Available in morocco (too rich to leave the country)
++ 🗺️ Available in morocco (too rich to leave the country 😎️)
 + 📮️ To contact me : [sami-karem@outlook.fr](mailto:sami-karem@outlook.fr)
 + 👨‍💻️ I am available for an internship.
 
@@ -25,4 +25,5 @@ I intend to be a Software Engineer 🤩️
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOOBODY369&icons=true&theme=midnight-purple)
 
 “A leader. . .is like a shepherd. He stays behind the flock, letting the most nimble go out ahead, whereupon the others follow, not realizing that all along they are being directed from behind.”
+
 ― Nelson Mandela,
