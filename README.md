@@ -2,14 +2,25 @@ Hello Everynyan ![41e56e6c-b8cd-4cec-a287-10f05fc02e1d-1687027894062 (1)](https:
 ================================================================================================================================================================================================
 
 My name is Sami! - Am fine thank you!
+
 =====================================
 
 I intend to be a Software Engineer
+
 ==================================
 
 + 🌍 Available in morocco (too rich to leave the country)
 + 📮️ To contact me [sami-karem@outlook.fr](mailto:sami-karem@outlook.fr)
 + 🤝 I am available for an internship.
+
+* You can also follow me on :
+=============================
+<p align="left"> <a href="https://github.com/NOOBODY369" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://https://www.linkedin.com/in/sami-karem-4801b3213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="https://www.twitter.com/Sam80460571" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
+
 
 ![NOOBODY369's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOOBODY369&show_icons=true&theme=midnight-purple)
 
