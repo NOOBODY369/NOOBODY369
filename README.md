@@ -22,7 +22,7 @@ I intend to be a Software Engineer 🤩️
 
 ![NOOBODY369's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOOBODY369&show_icons=true&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOOBODY369&hide_progress=trueicons=true&theme=midnight-purple)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOOBODY369icons=true&theme=midnight-purple)
 
 “A leader. . .is like a shepherd. He stays behind the flock, letting the most nimble go out ahead, whereupon the others follow, not realizing that all along they are being directed from behind.”
 ― Nelson Mandela,
