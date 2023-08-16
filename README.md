@@ -8,7 +8,7 @@ I intend to be a Software Engineer 🤩️
 
 
 + 🗺️ Available in morocco (too rich to leave the country)
-+ 📮️ To contact me [sami-karem@outlook.fr](mailto:sami-karem@outlook.fr)
++ 📮️ To contact me at: [sami-karem@outlook.fr](mailto:sami-karem@outlook.fr)
 + 👨‍💻️ I am available for an internship.
 
 * You can also follow me on :
