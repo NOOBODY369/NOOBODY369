@@ -7,8 +7,8 @@ My name is Sami! - Am fine thank you!
 I intend to be a Software Engineer
 ==================================
 
-+ 🌍  Available in morocco (too rich to leave the country)
-+ e
++ 🌍 Available in morocco (too rich to leave the country)
++ 📮️ To contact me [sami-karem@outlook.fr](mailto:sami-karem@outlook.fr)
 
 ![NOOBODY369's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOOBODY369&show_icons=true&theme=midnight-purple)
 
