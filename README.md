@@ -4,6 +4,12 @@ Hello Everynyan ![41e56e6c-b8cd-4cec-a287-10f05fc02e1d-1687027894062 (1)](https:
 My name is Sami! - Am fine thank you!
 =====================================
 
+I intend to be a Software Engineer
+==================================
+
++ 🌍  Available in morocco (too rich to leave the country)
++ e
+
 ![NOOBODY369's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOOBODY369&show_icons=true&theme=midnight-purple)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOOBODY369&hide_progress=trueicons=true&theme=midnight-purple)
