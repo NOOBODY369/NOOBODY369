@@ -14,8 +14,8 @@ I intend to be a Software Engineer 🤩️
 * You can also follow me on :
 
 
-<td align="left"> <a href="https://https://www.linkedin.com/in/sami-karem-4801b3213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a> 
-<a href="https://www.twitter.com/Sam80460571" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a></td>
+<p align="left"> <a href="https://https://www.linkedin.com/in/sami-karem-4801b3213" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /></a> 
+<a href="https://www.twitter.com/Sam80460571" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="40" height="40" /></a></p>
 
 
 
