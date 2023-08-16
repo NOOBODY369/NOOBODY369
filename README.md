@@ -2,6 +2,6 @@ Hello Everynyan ![41e56e6c-b8cd-4cec-a287-10f05fc02e1d-1687027894062 (1)](https:
 
 My name is Sami! - Am fine thank you! 
 
-[![NOOBODY369's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOOBODY369)](https://github.com/NOOBODY369/github-readme-statsic&theme=midnight-purple)
+![NOOBODY369's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NOOBODY369&hide_progress=trueicons=true&theme=midnight-purple)
