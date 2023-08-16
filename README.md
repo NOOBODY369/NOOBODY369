@@ -26,4 +26,5 @@ I intend to be a Software Engineer 🤩️
 
 “A leader. . .is like a shepherd. He stays behind the flock, letting the most nimble go out ahead, whereupon the others follow, not realizing that all along they are being directed from behind.”
 
+
 ― Nelson Mandela,
