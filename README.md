@@ -1,5 +1,5 @@
-Hello Everynyan ![41e56e6c-b8cd-4cec-a287-10f05fc02e1d-1687027894062 (1)](https://github.com/NOOBODY369/symmetrical-bassoon/assets/106931599/5ebe3bd7-51a3-4dd9-a038-44a04fbd637a) how are you?!
-================================================================================================================================================================================================
+Hello !
+======
 
 My name is Sami!
 ================
@@ -7,9 +7,8 @@ My name is Sami!
 I intend to be a Software Engineer 🤩️
 
 
-+ 🗺️ Available in morocco (too rich to leave the country 😎️)
++ 🗺️ Available in morocco 
 + 📮️ To contact me : [sami-karem@outlook.fr](mailto:sami-karem@outlook.fr)
-+ 👨‍💻️ I am available for an internship.
 
 * You can also follow me on :
 
@@ -19,7 +18,7 @@ I intend to be a Software Engineer 🤩️
 
 
 
-* My humbled stats :
+* My stats :
 
 ![NOOBODY369's GitHub stats](https://github-readme-stats.vercel.app/api?username=NOOBODY369&icons=true&theme=midnight-purple)
 
