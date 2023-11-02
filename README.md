@@ -4,7 +4,7 @@ Hello !
 My name is Sami!
 ================
 
-I intend to be a Software Engineer 🤩️
+I intend to be a Software Engineer !
 
 
 + 🗺️ Available in morocco 
